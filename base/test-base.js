@@ -238,6 +238,7 @@ class TestBase {
     let result = S4();
     return result
   }
+  
 
   async assertCurrentUrl(expectedUrl) {
     console.log("Assert we are in the right url, with string: ", expectedUrl);
