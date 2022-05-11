@@ -1,0 +1,8 @@
+{
+    "userButton" : {
+        "css": "[data-e2e='user-name']"
+    },
+    "logoutButton": {
+        "css": "[href='#/logout']"
+    }
+}

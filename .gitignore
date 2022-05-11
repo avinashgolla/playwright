@@ -1,0 +1,11 @@
+.idea
+.DS_Store
+.idea/misc.xml
+build
+node_modules
+npm-debug.log
+screenshots
+outputLog
+allure-results
+allure-report
+test-results

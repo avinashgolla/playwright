@@ -1,0 +1,17 @@
+{
+    "loginButton":{
+     "css": "(//a[@title='Log In'])[1]"
+    },
+    "email": {
+      "css": "input[id='user_email']"
+    },
+    "password": {
+      "css": "input[id='user_password']"
+    },
+    "loginBtn": {
+      "id": "#sign-in-button"
+    },
+    "adminBtn": {
+      "css": "a[href='#/admin']"
+    }
+  }
